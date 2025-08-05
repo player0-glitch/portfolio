@@ -114,10 +114,10 @@ I achieved frame delayed rendering manually by using ```SDL_GetPerformanceCounte
 As this was a maths based computer programme, it deepened my understanding of 3D maths and linear matrix transformations. Taking on this project has improved my proficiency in C++ with the use of initialiser lists. I've also gotten more comfortable with operator overloading. My debug skills have gotten much better I feel like I could be a detective. 
 Made use of ```perf record -g``` and ```perf report``` to profile the code and identify bottlenecks in the rendering pipeline. This helped me understand the performance implications of my code and how to optimize it for better frame rates. This insight helped me restructure my code as the rendering calls were expensive and many.
 
-![Performance record](images/perf_record.png)
+![Performance record](Code/images/perf_record.png)
 *Perf record of the update function, where most of the maths happens, before fixing rendering call issues. (13.44%)*
 
-![Performance report](images/perf_report.png)
+![Performance report](Code/images/perf_report.png)
 *Perf record after updating calls to the renderer in the update function but just delivering the data to the renderer. (2.88%)*
 
 ## Future Implementations
