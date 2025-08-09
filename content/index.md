@@ -9,19 +9,20 @@ title: Welcome!
       No mortal programmer has ever mastered more than 20% of C++ and no 2 programmers know the same 20% of C++.
   </div>
 </div>
-
-<table>
-<tr>
-<td style="vertical-align:top; padding-right:10px;">
-  <img src="logo.png" alt="Home Icon" width="250">
-</td>
-<td style="border-left:4px; border:1px solid #a8e6da; border-radius:6px; padding:10px;">
-  <strong style="color:#00bfa6;">🤓 Facts</strong><br>
-No mortal programmer has ever mastered more than 20% of C++ and no 2 programmers know the same 20% of C++.
-
-</td>
-</tr>
-</table>
+<!---->
+<!-- <table> -->
+<!-- <tr> -->
+<!-- <td style="vertical-align:top; padding-right:10px;"> -->
+<!--   <img src="logo.png" alt="Home Icon" width="250"> -->
+<!-- </td> -->
+<!-- <td style="border-left:4px; border:1px solid #a8e6da; border-radius:6px; padding:10px;"> -->
+<!--   <strong style="color:#00bfa6;">🤓 Facts</strong><br> -->
+<!-- No mortal programmer has ever mastered more than 20% of C++ and no 2 programmers know the same 20% of C++. -->
+<!---->
+<!-- </td> -->
+<!-- </tr> -->
+<!-- </table> -->
+<!---->
 
 # Welcome! 
 
