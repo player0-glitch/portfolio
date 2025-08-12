@@ -10,12 +10,14 @@ tags: [C++, SDL2,  Linear Algebra]
 >**WHY** To demystify the magic behind linear matrix transformations by having maths and computer science work together to create graphics.
 
 >**REPO** [GitHub Repository](https://github.com/player0-glitch/Vector3D)
+--- 
+
 ## High-level Structure
 - [Math for 3D Rotations](#math-for-3D-rotations)
 - [Implementation in C++](#Implementation-in-C++)
 - [Skills Demonstrated](#Skills-Demonstrated)
 - [Future Implementations](#Future-Implementations)
-
+---
 
 ## Math for 3D Rotations
 Linear Algebra is the foundation of 3D graphics. The key concepts included in my implementation 
@@ -34,15 +36,15 @@ $$
 $$
 
 $$
-aspectRation = \frac{\text{width}}{\text{height}}\\
+aspectRation = \frac{\text{width}}{\text{height}}
 $$
 $$
-fovRad=\frac{\text{fovAngleDeg}\cdot\pi}{180}\\ 
+fovRad=\frac{\text{fovAngleDeg}\cdot\pi}{180}
 $$
 
 $$
 Far = 1000\\
-Near = 0.1 \\
+Near = 0.1 
 $$
 ### Rotation Matrices
 These matrices are used to rotate points in 3D space around the X, Y, and Z axes. They are fundamental for transforming the orientation of objects in 3D space. These matrices can be combined together using matrix multiplication. However, I've opted to have these matrices separate for clarity[^1].
