@@ -28,15 +28,15 @@ This projects points from a 3D space onto a 2D plane, this allows us to simulate
 
 $$
 \begin{bmatrix}
-\frac{1}{\text{aspectRation}\cdot\tan(\text{fovRad})} & 0 & 0 & 0 \\
+\frac{1}{\text{aspectRatio}\cdot\tan(\text{fovRad})} & 0 & 0 & 0 \\
 0 & \frac{1}{\tan(\text{fovRad})} & 0 & 0 \\
-0 & 0 & \frac{-\text{Far+Near}}{\text{far} - \text{near}} & \frac{-2\cdot\text{(Far*Near)}}{\text{Far-Near}}\\
+0 & 0 & \frac{-\text{Far+Near}}{\text{Far} - \text{Near}} & \frac{-2\cdot\text{(Far*Near)}}{\text{Far-Near}}\\
 0 & 0 & -1 & 0\\
 \end{bmatrix}
 $$
 
 $$
-aspectRation = \frac{\text{width}}{\text{height}}
+aspectRatio = \frac{\text{viewportWidth}}{\text{viewportHeight}}
 $$
 $$
 fovRad=\frac{\text{fovAngleDeg}\cdot\pi}{180}
@@ -47,7 +47,7 @@ Far = 1000\\
 Near = 0.1 
 $$
 ### Rotation Matrices
-These matrices are used to rotate points in 3D space around the X, Y, and Z axes. They are fundamental for transforming the orientation of objects in 3D space. These matrices can be combined together using matrix multiplication. However, I've opted to have these matrices separate for clarity[^1].
+These matrices are used to rotate points in 3D space around the X and Z axes. They are fundamental for transforming the orientation of objects in 3D space. These matrices can be combined together using matrix multiplication. However, I've opted to have these matrices separate for clarity[^1].
 
 $$
 R_x(\theta) = \begin{bmatrix}
