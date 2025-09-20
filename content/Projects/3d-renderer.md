@@ -14,9 +14,9 @@ tags: [C++, SDL2,  Linear Algebra]
 
 ## High-level Structure
 - [Math for 3D Rotations](#math-for-3D-rotations)
-- [Implementation in C++](#Implementation-in-C++)
-- [Skills Demonstrated](#Skills-Demonstrated)
-- [Future Implementations](#Future-Implementations)
+- [Implementation in C++](#implementation-in-C++)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Future Implementations](#future-implementations)
 ---
 
 ## Math for 3D Rotations
