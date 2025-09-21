@@ -10,7 +10,7 @@ tags: [Applied Mathematics, C++, Root Finding, Bisection Method]
 
 >**WHY** To have my own root finding program that I can modify and use.
 
->**REPO** <not set up yet> 
+>**REPO** [Github Repo](https://github.com/player0-glitch/bisectionMethod)
 --- 
 
 ## High-Level Structure 
@@ -65,10 +65,15 @@ $$
 
 This program design ensures reproducibility and readability of the results, making it easier for users to understand the process and outcomes of the Bisection Method.
 
-# Conclusion
+## Future Implementations
+- [ ] Add a GUI to make the program even more user friendly.
+- [ ] Find a way to run it on the web.
+> **Hack** By using the Clay C UI library i may be able to cross out both tasks in 1 go as Clay supposedly supports web assembly.
+
+## Conclusion
 I have hopes this project will be a valuable tool for anyone needing to find roots of functions numerically. This project aims to bridge numerical analysis with software engineering and technical reporting. By combining robust numerical methods, automated LaTeX reporting, clean C++ architected implementation and produces results that are mathematically sound and professionally presentable 
 
-### Contacts
+## Contacts
 email: [mokhaditlhalefo@gmail.com](mailto:mokhaditlhalefo@gmail.com)
 
 LinkedIn: [linkedin.com/in/mokhaditlhalefo](https://www.linkedin.com/in/tlhalefo-mokhadi-445b05226/)
