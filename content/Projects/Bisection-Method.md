@@ -10,7 +10,7 @@ tags: [Applied Mathematics, C++, Root Finding, Bisection Method]
 
 >**WHY** To have my own root finding program that I can modify and use.
 
->**REPO** [Github Repo](https://github.com/player0-glitch/bisectionMethod)
+> **REPO** <a href="https://github.com/player0-glitch/bisectionMethod" target="_blank" rel="noopener noreferrer">Github</a>
 --- 
 
 ## High-Level Structure 

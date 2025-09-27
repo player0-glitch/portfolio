@@ -9,7 +9,7 @@ tags: [C++, SDL2,  Linear Algebra]
 
 >**WHY** To demystify the magic behind linear matrix transformations by having maths and computer science work together to create graphics.
 
->**REPO** [GitHub Repository](https://github.com/player0-glitch/Vector3D)
+>**REPO** <a href="https://github.com/player0-glitch/bisectionMethod" target="_blank" rel="noopener noreferrer">Github</a>
 --- 
 
 ## High-level Structure

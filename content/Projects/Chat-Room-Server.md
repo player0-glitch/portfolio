@@ -9,7 +9,7 @@ tags: [C++,TCP/IP, Networking, Sockets,Linux]
 >**WHY** To show my hands-on experience with **low-level networking, non-blocking I/O**, and 
 **multi-threading** (this joke wrote itself).
 
->**REPO** [GitHub Repository](https://github.com/player0-glitch/chat-server.git)
+>**REPO** <a href="https://github.com/player0-glitch/chat-server.git" target="_blank" rel ="noopener noreferrer">Github</a>
 ---
 ## High-level Structure
 - [Networking Fundamentals](#Networking-Fundamentals)
