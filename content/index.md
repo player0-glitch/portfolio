@@ -24,7 +24,9 @@ title: Welcome!
 <!-- </table> -->
 <!---->
 
-# Welcome! This is as close as you might get to my brain
+# Welcome!  This is as close as you might get to my brain
 
 This is my corner of the internet, I don't know how you found this place but don't be shy to touch around.
 This is where I document my learning, frustrations in my failures and of-course my projects, as unfinished as they are.
+
+Feel free to snoop around using the Explorer on the left side of your screen.
